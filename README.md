@@ -58,7 +58,7 @@ To create the solid model from given drawing and section the solid model
    - Move the pointer over the profile. A closed region should shade.
 8. If there are gaps, zoom in and use **Coincident** constraints to connect the endpoints. If extra segments remain, use **Trim** again.
 9. Select **Finish Sketch**.
-<img width="1920" height="1007" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/5109e9e1-2998-4c73-863f-292d27e2f1e8" />
+<img width="1920" height="1019" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/6f69f74e-3c73-4d88-bb8d-b0d162f4800c" />
 
 ### C. Revolve the profile into a 3D goblet
 
@@ -86,7 +86,8 @@ To create the solid model from given drawing and section the solid model
 
 1. Save the 3D model.
 2. From the design workspace, choose **Design → Drawing → From Design**.
-![Uploading Screenshot (268).png…]()
+<img width="1920" height="1020" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/b132c453-7f43-466a-81a2-cecd98596391" />
+
 
 
 5. Place a front view that clearly shows the goblet’s height and profile.
