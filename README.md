@@ -86,7 +86,7 @@ To create the solid model from given drawing and section the solid model
 
 1. Save the 3D model.
 2. From the design workspace, choose **Design → Drawing → From Design**.
-3. <img width="1920" height="1008" alt="Screenshot (267)" src="https://github.com/user-attachments/assets/2cc1bf06-901b-418e-aa87-a6da301bd8fb" />
+![Uploading Screenshot (268).png…]()
 
 
 5. Place a front view that clearly shows the goblet’s height and profile.
